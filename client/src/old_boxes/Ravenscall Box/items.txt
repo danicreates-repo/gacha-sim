@@ -1,0 +1,120 @@
+0.12%	Dark Ravenscall Wings
+0.12%	Cold Ravenscall Wings
+0.12%	Passionate Ravenscall Wings
+0.12%	Elegant Ravenscall Wings
+0.12%	Fallen Ravenscall Wings
+0.21%	Ravenscall Halo
+0.21%	Undulating Darkness Halo
+0.21%	Undulating Abyss Halo
+0.12%	Special Ravenscall Arming Doublet (M)
+0.12%	Special Ravenscall Battlemaiden Suit (F)
+0.12%	Special Ravenscall Nightwing Doublet (M)
+0.12%	Special Ravenscall Wingmaiden Suit (F)
+0.21%	Ravenscall Arming Doublet (M)
+0.21%	Ravenscall Battlemaiden Suit (F)
+0.21%	Ravenscall Nightwing Doublet (M)
+0.21%	Ravenscall Wingmaiden Suit (F)
+0.24%	Ravenscall Helm (M)
+0.24%	Ravenscall Headdress (F)
+0.24%	Ravenscall Gloves (M)
+0.24%	Ravenscall Gloves (F)
+0.24%	Ravenscall Boots (M)
+0.24%	Ravenscall Boots (F)
+0.21%	Ravenscall Pinion Blade Appearance Scroll
+0.21%	Ravenscall Talon Knuckles Appearance Scroll
+0.21%	Spirit Transformation Liqueur (Sanguine Slash)
+0.21%	Ravenscall Battle Tail
+0.21%	Ravenscall Mediator Tail
+0.21%	Ravenscall Shotgun Crossbow Appearance Scroll
+0.21%	Ravenscall Hunter Shotgun Crossbow Appearance Scroll
+0.21%	Ravenscall Shotgun Bow Appearance Scroll
+0.21%	Ravenscall Hunter's Shotgun Bow Appearance Scroll
+0.21%	Eternal Resistance Tactical Bow Appearance Scroll
+0.21%	Revolutionary Resistance Tactical Bow Appearance Scroll
+0.09%	Uaithne (Exquisite)
+0.09%	Goblet of Truth (Exquisite)
+0.06%	Wave Sweeper (Exquisite)
+0.09%	High Sky Feather
+0.17%	Special Indoor Digital Destiny Wear (M)
+0.17%	Special Indoor Digital Destiny Wear (F)
+0.15%	Special Outdoor Digital Destiny Wear (M)
+0.15%	Special Outdoor Digital Destiny Wear (F)
+0.17%	Digital Destiny Shoes (M)
+0.17%	Digital Destiny Shoes (F)
+0.30%	Indoor Digital Destiny Wear (M)
+0.30%	Indoor Digital Destiny Wear (F)
+0.76%	Outdoor Digital Destiny Wear (M)
+0.76%	Outdoor Digital Destiny Wear (F)
+0.30%	Digital Destiny Wig (M)
+0.30%	Digital Destiny Wig (F)
+0.76%	Digital Destiny Goggles (Facewear)
+0.91%	Digital Destiny Gas Mask (Facewear)
+0.91%	Digital Destiny Full-Face Mask (Facewear)
+0.61%	I'm In Action Coupon
+0.91%	Homestead Hacker's Workstation
+0.27%	Abaddon Nobility Wear (M)
+0.27%	Abaddon Sovereign Wear (M)
+0.27%	Abaddon Nobility Wear (F)
+0.27%	Abaddon Sovereign Wear (F)
+0.91%	Skeletal Steel Dragon Tail
+0.91%	Abaddon Sovereign Horns (M)
+0.76%	Daring Duckling Banana Dual Gun Appearance Scroll
+0.91%	Raving Rabbit Shuriken Appearance Scroll
+0.91%	Dragon's Broken Sword Appearance Scroll
+0.91%	Virtuous Dragon Horn Headpiece (Facewear)
+0.91%	Watchwork Feathered Headdress (Facewear)
+0.91%	Cat's Whiskers (Facewear)
+0.91%	Cheese Cupcake Halo
+0.91%	Void Oath Halo
+1.36%	Digital Destiny Gloves (M)
+1.36%	Digital Destiny Gloves (F)
+1.51%	Homestead Cyber-Milletian Charging Station
+1.51%	Holo-surface Chair
+1.36%	Abaddon Nobility Wig (M)
+1.36%	Abaddon Nobility Wig (F)
+1.51%	Abaddon Sovereign Wig (M)
+1.51%	Abaddon Sovereign Wig (F)
+1.36%	Abaddon Nobility Wig and Horns (F)
+1.36%	Abaddon Nobility Wig and Horns (M)
+1.36%	Abaddon Sovereign Wig and Horns (M)
+1.36%	Abaddon Sovereign Wig and Horns (F)
+1.36%	Abaddon Gloves (M)
+1.51%	Abaddon Heels (F)
+1.51%	Abaddon Greaves (M)
+1.36%	Abaddon Nobility Horns (F)
+1.36%	Small Lavastone Chair
+1.21%	Black Abaddon Nobility Halo
+1.51%	Blue Abaddon Nobility Halo
+1.36%	Red Abaddon Nobility Halo
+1.36%	Blue Abaddon Sovereign Halo
+1.21%	Red Abaddon Sovereign Halo
+1.12%	Homestead Wisteria Arch
+1.36%	Homestead Spirit Forest
+1.36%	Monochromatic Gold Pack (#EEB233)
+1.21%	Monochromatic Dark Red Pack (#8B0000)
+1.53%	Speed Walk Potion 40% (30 min)
+1.53%	Light Physical Power Potion (2 Hours)
+1.53%	Light Magic Power Potion (2 hrs.)
+1.53%	Light Magic Speed Potion (2 hrs.)
+1.53%	Fixed Color Dye Ampoule (#00FF00)
+1.53%	Fixed Color Dye Ampoule (#800080)
+1.53%	Fixed Color Dye Ampoule (#FEFEFE)
+1.53%	Fixed Color Metal Dye Ampoule (#F18372)
+1.53%	Fixed Color Metal Dye Ampoule (#FFD700)
+1.53%	Pet Fixed Color Dye Ampoule (#800080)
+1.53%	Pet Fixed Color Dye Ampoule (#FFFFFF)
+1.53%	Magical Instrument Dye (#8A2BE2)
+1.53%	Magical Instrument Dye (#FFB6C1)
+1.53%	Tumble Training Potion
+1.53%	Charge Training Potion
+1.53%	Crisis Escape Training Potion
+1.53%	Shadow Cloak Training Potion
+1.53%	Chain Crush Training Potion
+1.53%	Death Mark Training Potion
+1.53%	Lance Charge Training Potion
+1.53%	Music Buff Potion (30 min.) x3
+1.53%	Practice Autograph Gesture Card
+1.53%	Gloves Gesture Card
+1.53%	Fine Echostone Awakening Stimulant x3
+1.53%	Alban Knights Training Stone [Hidden Floor: Aton Cimeni Anvil]
+1.53%	Alban Knights Training Stone [Difficulty: Hard]

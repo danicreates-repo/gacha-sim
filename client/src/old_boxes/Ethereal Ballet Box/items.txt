@@ -1,0 +1,126 @@
+0.07%	Special Ethereal Chiffon Wings (Enchantable)
+0.07%	Special Ethereal Split Wings (Enchantable)
+0.12%	Elegant Ethereal Chiffon Wings
+0.12%	Virtuous Ethereal Chiffon Wings
+0.12%	Bright Ethereal Chiffon Wings
+0.12%	Radiant Ethereal Chiffon Wings
+0.12%	Elegant Ethereal Half Wings
+0.12%	Virtuous Ethereal Half Wings
+0.12%	Bright Ethereal Half Wings
+0.12%	Radiant Ethereal Half Wings
+0.12%	Special Ethereal Ballet Outfit (M)
+0.12%	Special Ethereal Ballet Outfit (F)
+0.23%	Ethereal Ballet Outfit (M)
+0.23%	Ethereal Ballet Outfit (F)
+0.25%	Ethereal Ballet Gloves (M)
+0.25%	Ethereal Ballet Gloves (F)
+0.25%	Ethereal Ballet Slippers (M)
+0.25%	Ethereal Ballet Slippers (F)
+0.25%	Ethereal Ballet Wig (M)
+0.25%	Ethereal Ballet Wig (F)
+0.25%	Yearning Ethereal Ballet Halo
+0.25%	Pure Ethereal Ballet Halo
+0.25%	Brilliant Ethereal Ballet Halo
+0.23%	Ethereal Ballet Earrings (Facewear)
+0.23%	Ethereal Ballet Horns (Facewear)
+0.23%	Ethereal Ribbon Stardust
+0.23%	Ethereal Ballet Slippers Stardust
+0.25%	Heavenly Ballet Figure
+0.25%	Demonic Ballet Figure
+0.23%	Ethereal Angel Long Bow Appearance Scroll
+0.23%	Ethereal Devil Scythe Appearance Scroll
+0.14%	Musketeer's Musket Crossbow Appearance Scroll
+0.16%	Musketeer's Rapier Appearance Scroll
+0.16%	Bejeweled Monarch Longbow Appearance Scroll
+0.16%	Bejeweled Monarch Greatsword Appearance Scroll
+0.14%	Special Musketeer's Attire (M)
+0.14%	Special Musketeer's Attire (F)
+0.14%	Voidal Butterfly 2nd Title Coupon
+0.16%	Dark Dynamis 2nd Title Coupon
+0.16%	Crisis Escape Appearance Change Card (Single Rose) Coupon
+0.20%	Noblesse Deity Special Wear (F)
+0.20%	Noblesse Deity Special Wear (M)
+0.28%	Elegant Deity Special Wear (F)
+0.28%	Elegant Deity Special Wear (M)
+0.85%	Musketeer's Attire (M)
+0.85%	Musketeer's Attire (F)
+0.85%	Musketeer's Gloves (M)
+0.85%	Musketeer's Gloves (F)
+0.71%	Musketeer's Boots (M)
+0.71%	Musketeer's Boots (F)
+0.28%	Flamboyant Plumed Musketeer's Hat
+0.42%	Elegant Plumed Musketeer's Hat
+0.85%	Musketeer's Harp
+0.85%	Musketeer's Flute
+0.57%	Antique Ladle
+0.57%	Antique Cooking Knife
+0.57%	Antique Cooking Pot
+0.57%	Antique Cooking Table
+0.57%	Bleugenne Cosmetics Compact
+0.85%	Regal Retreat Newspaper
+0.85%	Sorbet Wedding Bouquet
+0.85%	Bright Sun 2nd Title Coupon
+0.28%	Superstar 2nd Title Coupon
+0.85%	Smile in Style 2nd Title Coupon
+0.71%	Rain of Jewels 2nd Title Coupon
+0.28%	Musketeer's Dual Guns Appearance Scroll
+0.42%	Musketeer's Umbrella Appearance Scroll
+0.57%	Nobles' Heirloom Knuckles Appearance Scroll
+0.57%	Enchanting Peacock Wine Glass Appearance Scroll
+0.57%	Secret Forest Wildflower Two-handed Sword Appearance Scroll
+0.71%	Savvy Socialite Knuckles Appearance Scroll
+0.85%	Selenian Longbow Appearance Scroll
+0.85%	Moonlight Hunter's Chain Blade Appearance Scroll
+1.13%	Noblesse Deity Wear (F)
+1.13%	Noblesse Deity Wear (M)
+1.27%	Elegant Deity Wear (F)
+1.27%	Elegant Deity Wear (M)
+1.27%	Noblesse Deity Wig and Hair Piece (F)
+1.27%	Noblesse Deity Wig and Hair Piece (M)
+1.42%	Fixed Color Hair Dye Ampoule (#623022)
+1.42%	Fixed Color Hair Dye Ampoule (#DC9C34)
+1.42%	Fixed Color Hair Dye Ampoule (#EFEAB5)
+1.42%	Monochromatic Black Pack (#000000)
+1.27%	Monochromatic Red Pack (#C00000)
+1.27%	Monochromatic Pink Cherry Blossom Pack (#FE93BE)
+1.27%	Monochromatic Midnight Blue Pack (#191970)
+1.42%	Shining Forest Floating Puppy (Reforge: Rank 1)
+1.27%	Secret Forest Floating Panda (Reforge: Rank 1)
+1.42%	Secret Forest Floating Puppy (Reforge: Rank 1)
+1.42%	Shining Forest Floating Panda (Reforge: Rank 1)
+1.27%	Homestead Portia's Yard
+1.27%	Homestead Small Tent
+1.27%	Homestead Ginkgo (Large)
+1.42%	Homestead Royal Mage's Atelier Fence
+1.13%	Cloaked in Shadows 2nd Title Coupon
+1.13%	Luminous Cosmic Milky Way 2nd Title Coupon
+1.27%	Wish upon a Star 2nd Title Coupon
+1.27%	Brilliant Cosmic Milky Way 2nd Title Coupon
+1.27%	Constellation Dance 2nd Title Coupon
+1.27%	Gloomy Blue Hydrangea 2nd Title Coupon
+1.44%	Speed Walk Potion 40% (30 min)
+1.44%	Light Physical Power Potion (2 Hours)
+1.44%	Light Magic Power Potion (2 hrs.)
+1.44%	Light Magic Speed Potion (2 hrs.)
+1.44%	Fixed Color Dye Ampoule (#87CEFA)
+1.44%	Fixed Color Dye Ampoule (#FED0C0)
+1.44%	Fixed Color Dye Ampoule (#43B69B)
+1.44%	Pet Fixed Color Dye Ampoule (#FFFF00)
+1.44%	Pet Fixed Color Dye Ampoule (#008000)
+1.44%	Magical Instrument Dye (#000000)
+1.44%	Magical Instrument Dye (#FFFFFF)
+1.44%	Control Marionette Training Potion
+1.44%	Healing Training Potion
+1.44%	Life Drain Training Potion
+1.44%	Natural Shield Training Potion
+1.44%	Respite Training Potion
+1.44%	Fire Shield Training Potion
+1.44%	Lightning Shield Training Potion
+1.44%	Ice Shield Training Potion
+1.44%	Elegant Afternoon Tea Table
+1.44%	Refined Afternoon Tea Table
+1.44%	Alban Knights Training Stone [Difficulty: Advanced]
+1.44%	Potent Fine Gem Powder
+1.44%	Fine Gem Powder (x3)
+1.44%	Anguish Gesture Card
+1.44%	Ponder Gesture Card

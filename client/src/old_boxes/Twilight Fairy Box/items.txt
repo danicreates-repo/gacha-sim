@@ -1,0 +1,128 @@
+0.10%	Special Twilight Fairy Ceremonial Wear (M) (Reforge: Rank 1)
+0.10%	Special Twilight Fairy Ceremonial Dress (F)(Reforge: Rank 1)
+0.10%	Special Twilight Fairy Casual Wear (M)
+(Reforge: Rank 1)
+0.10%	Special Twilight Fairy Casual Dress (F)
+(Reforge: Rank 1)
+0.22%	Twilight Fairy Ceremonial Wear (M)
+0.22%	Twilight Fairy Ceremonial Dress (F)
+0.22%	Twilight Fairy Casual Wear (M)
+0.22%	Twilight Fairy Casual Dress (F)
+0.11%	Twilight Fairy Wig (M)
+(Reforge: Rank 1)
+0.11%	Twilight Fairy Wig (F)
+(Reforge: Rank 1)
+0.11%	Twilight Fairy Gloves (M)
+(Reforge: Rank 1)
+0.11%	Twilight Fairy Gloves (F)
+(Reforge: Rank 1)
+0.11%	Twilight Fairy Shoes (M)
+(Reforge: Rank 1)
+0.11%	Twilight Fairy Shoes (F)
+(Reforge: Rank 1)
+0.22%	Twilight Fairy Butterfleye (Facewear)
+0.22%	Twilight Fairy Demi-Veil (Facewear)
+0.22%	Nova Blast Effect Change Card (Twilight Fairy) Coupon
+0.22%	Spirit Transformation Liqueur (Effulgent Spores)
+0.22%	Spirit Transformation Liqueur (Nightbloom)
+0.22%	Twilight Fairy Wand Appearance Scroll
+0.22%	Twilight Fairy Staff Appearance Scroll
+0.22%	Twilight Fairy Shuriken Appearance Scroll
+0.22%	Twilight Fairy Crossbow Appearance Scroll
+0.22%	Twilight Fairy Guard Cylinder Appearance Scroll
+0.22%	Spirit Transformation Liqueur (Innocent Floral Temptation)
+0.22%	Spirit Transformation Liqueur (Dark Floral Temptation)
+0.22%	Spirit Transformation Liqueur (Desirous Floral Temptation)
+0.22%	Spirit Transformation Liqueur (Bloody Floral Temptation)
+0.22%	Spirit Transformation Liqueur (Bloody Graceful Butterfly)
+0.11%	Special Hyperion Eclipse Light Chiton (M) (Reforge: Rank 1)
+0.11%	Special Hyperion Eclipse Light Chiton (F) (Reforge: Rank 1)
+0.11%	Special Hyperion Eclipse Full Chiton (M) (Reforge: Rank 1)
+0.11%	Special Hyperion Eclipse Full Chiton (F) (Reforge: Rank 1)
+0.12%	Hyperion Eclipse Helionic Helm (Reforge: Rank 1)
+0.12%	Hyperion Eclipse Selenian Diadema (Reforge: Rank 1)
+0.13%	Hyperion Eclipse Wrist Torques (M) (Reforge: Rank 1)
+0.13%	Hyperion Eclipse Wrist Torques (F) (Reforge: Rank 1)
+0.13%	Hyperion Eclipse Crepidae (M) (Reforge: Rank 1)
+0.13%	Hyperion Eclipse Crepidae (F) (Reforge: Rank 1)
+0.16%	Special Naraka Inferno Attire (M)
+0.16%	Special Naraka Inferno Attire (F)
+0.16%	Naraka Inferno Wig (M)
+0.16%	Naraka Inferno Wig (F)
+0.32%	Special Hydrangea Long Wear (M)
+0.32%	Special Hydrangea Short Wear (M)
+0.32%	Special Hydrangea Skirt (F)
+0.32%	Special Hydrangea Shorts (F)
+0.32%	Naraka Inferno Attire (M)
+0.32%	Naraka Inferno Attire (F)
+0.95%	Naraka Inferno Bracers (M)
+0.95%	Naraka Inferno Bracelets (F)
+0.32%	Naraka Inferno Anklets (M)
+0.32%	Naraka Inferno Anklets (F)
+0.95%	Hyperion Eclipse Light Chiton (M)
+0.95%	Hyperion Eclipse Light Chiton (F)
+0.95%	Hyperion Eclipse Full Chiton (M)
+0.95%	Hyperion Eclipse Full Chiton (F)
+0.79%	Eternal Resistance Replica Sniper Rifle Two-Handed Blunt Weapon Appearance Scroll
+0.79%	Reichel Prevail Control Bars Appearance Scroll
+0.95%	Imperial Knight Staff Appearance Scroll
+0.95%	Imperial Knight Long Blade Appearance Scroll
+0.79%	Hillwen Jeweled Ornament (Facewear)
+0.79%	Ailionoa Chic Glasses (Facewear)
+0.95%	Hellfire Tilaka (Facewear)
+0.95%	Sleep Mask (Facewear)
+0.79%	Spirit Transformation Liqueur (Mysterious Runes)
+0.79%	Spirit Transformation Liqueur (Azure Eminence)
+0.95%	Spirit Transformation Liqueur (Black Rose)
+0.95%	Spirit Transformation Liqueur (Bright Butterfly Lure)
+0.79%	Dark Lord Malevolent Crest
+0.63%	Sunbather's Paradise Halo
+0.79%	Blue Hydrangea Veil (Facewear)
+0.95%	Blue Hydrangea Earrings (Facewear)
+1.26%	Hydrangea Skirt (F)
+1.26%	Hydrangea Shorts (F)
+1.26%	Hydrangea Wig (M)
+1.26%	Hydrangea Wig (F)
+1.42%	Hydrangea Wig and Veil (M)
+1.42%	Hydrangea Wig and Veil (F)
+1.42%	Hydrangea Long Wear (M)
+1.42%	Hydrangea Short Wear (M)
+1.42%	Hydrangea Gloves (M)
+1.42%	Hydrangea Gloves (F)
+1.42%	Hydrangea Shoes (M)
+1.42%	Hydrangea Shoes (F)
+1.58%	Fixed Color Hair Dye Ampoule (#623022)
+1.58%	Fixed Color Hair Dye Ampoule (#DC9C34)
+1.58%	Cethlenn Fixed Dye Ampoule Set (#B4B4B4)
+1.58%	Monochromatic Blue Pack (#0000C0)
+1.58%	Casual Date Wear Dye Ampoule Set
+1.26%	Synthesis Training Potion
+1.58%	Homestead Afternoon Tea Set Chair
+1.58%	Floral Glass Coffin and the Seven Imps
+1.58%	Bookshelf and Beanbag Chair
+1.42%	Mushroom Chair (Type B)
+1.58%	Mushroom Chair (Type C)
+1.58%	Speed Walk Potion 40% (30 min)
+1.58%	Light Physical Power Potion (2 Hours)
+1.58%	Light Magic Power Potion (2 hrs.)
+1.58%	Light Magic Speed Potion (2 hrs.)
+1.58%	Fixed Color Dye Ampoule (#B6A0E4)
+1.58%	Fixed Color Dye Ampoule (#82698F)
+1.58%	Fixed Color Dye Ampoule (#FFD7C0)
+1.58%	Fixed Color Metal Dye Ampoule (#800080)
+1.58%	Fixed Color Metal Dye Ampoule (#F18372)
+1.58%	Pet Fixed Color Dye Ampoule (#008000)
+1.58%	Pet Fixed Color Dye Ampoule (#008080)
+1.58%	Dischord Training Potion
+1.58%	Shadow Bind Training Potion
+1.58%	Enthralling Performance Training Potion
+1.58%	Shooting Rush Training Potion
+1.58%	Lullaby Training Potion
+1.58%	Act 4: Rising Action Training Potion
+1.58%	Act 7: Climactic Crash Training Potion
+1.58%	Pierrot Marionette Training Potion
+1.58%	Ancient Magic Powder x2
+1.58%	Perfect Free Repair Kit
+1.58%	Promote Gesture Card
+1.58%	Research Gesture Card
+1.58%	Ah! My Eyes! Gesture Card

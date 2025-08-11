@@ -1,0 +1,120 @@
+0.13% 	Special Erinn Courier Uniform (M)
+0.13% 	Special Erinn Courier Uniform (F)
+0.28% 	Erinn Courier Uniform (M)
+0.28% 	Erinn Courier Uniform (F)
+0.33% 	Erinn Courier Gloves (M)
+0.33% 	Erinn Courier Gloves (F)
+0.33% 	Erinn Courier Boots (M)
+0.33% 	Erinn Courier Boots (F)
+0.28% 	Erinn Courier Hat
+0.07% 	Homestead Special Masterpiece Scene Vol. 1
+0.07% 	Homestead Special Masterpiece Scene Vol. 2
+0.28% 	Homestead Masterpiece Scene Vol. 1
+0.28% 	Homestead Masterpiece Scene Vol. 2
+0.11% 	Erinn Courier Figure (Female)
+0.11% 	Erinn Courier Figure (Male)
+0.28% 	Spirit Transformation Liqueur (Heavenly Judgment)
+0.28% 	Vivace Effect Change Card (Heavenly Winds) Coupon
+0.28% 	Vintage Typewriter and Desk
+0.11% 	Height-Boosting Insoles (M)
+0.13% 	Fleet Feet (M)
+0.13% 	Fleet Feet (F)
+0.15% 	Spirit Transformation Liqueur (Seething Eye of Chaos)
+0.15% 	Spirit Transformation Liqueur (Abyssal Impaler)
+0.15% 	Spirit Transformation Liqueur (Gleaming Edge)
+0.15% 	Spirit Transformation Liqueur (Unexpected Resonance)
+0.20% 	Spirit Transformation Liqueur (Error Popup)
+0.20% 	Spirit Transformation Liqueur (Card Trick)
+0.20% 	Spirit Transformation Liqueur (Cut Flowers)
+0.20% 	Spirit Transformation Liqueur (Inferno)
+0.13% 	Special Florentine Gala Outfit (F)
+0.13% 	Special Florentine Gala Outfit (M)
+0.20% 	Florentine Gala Outfit (F)
+0.20% 	Florentine Gala Outfit (M)
+0.14% 	Florentine Gala Heels (F)
+0.14% 	Florentine Gala Boots (M)
+0.20% 	Special Imperial Commander Uniform (F)
+0.20% 	Special Imperial Commander Uniform (M)
+0.22% 	Special Deputy Commander Uniform (F)
+0.22% 	Special Deputy Commander Uniform (M)
+0.56% 	Florentine Gala Wig (F)
+0.56% 	Florentine Gala Wig (M)
+0.56% 	Florentine Gala Gloves (F)
+0.56% 	Florentine Gala Gloves (M)
+0.33% 	Florentine Gala Hat
+0.84% 	Crisis Escape Appearance Change Card (Elegant Riding Crop) Coupon
+0.84% 	Florentine Fountain
+0.84% 	Florentine Picnic Set
+0.84% 	Florentine Sofa
+0.84% 	Deputy Commander Uniform (F)
+0.84% 	Deputy Commander Uniform (M)
+0.84% 	Imperial Commander Wig (F)
+0.84% 	Imperial Commander Wig (M)
+0.56% 	Deputy Commander Wig (F)
+0.56% 	Deputy Commander Wig (M)
+0.56% 	Spirit Transformation Liqueur (Warning Popup)
+0.56% 	Spirit Transformation Liqueur (Windswept Forest)
+0.56% 	Spirit Transformation Liqueur (Shadow Dragon)
+0.56% 	Spirit Transformation Liqueur (Star Dust)
+0.70% 	Spirit Transformation Liqueur (Thunderflame)
+0.70% 	Spirit Transformation Liqueur (Rainbow Star)
+0.70% 	Spirit Transformation Liqueur (Cheerful Tune)
+0.70% 	Spirit Transformation Liqueur (Loading Popup)
+0.70% 	Homestead Fairytale Gardener's Cottage Construction Set
+0.70% 	Fairy Tale Castle Construction Set
+0.70% 	Wisteria House Construction Set
+0.70% 	Blue Dragon's Swirling Clouds
+0.70% 	Blue Dragon's Cintamani
+0.70% 	Blue Dragon's Spring Parlor
+1.40% 	Imperial Commander Uniform (F)
+1.40% 	Imperial Commander Uniform (M)
+1.40% 	Imperial Commander Silk Gloves (F)
+1.40% 	Imperial Commander Silk Gloves (M)
+1.40% 	Imperial Commander Shoes
+1.40% 	Imperial Commander Boots
+1.40% 	Deputy Commander Boots (F)
+1.40% 	Deputy Commander Boots (M)
+1.40% 	Imperial Commander Wig and Uniform Cap (F)
+1.40% 	Imperial Commander Wig and Uniform Cap (M)
+1.40% 	Deputy Commander Wig and Monocle (F)
+1.40% 	Deputy Commander Wig and Monocle (M)
+1.40% 	Deputy Commander's Clipboard
+1.40% 	Spirit Transformation Liqueur (Black Fog)
+1.40% 	Spirit Transformation Liqueur (Musical Note)
+1.40% 	Spirit Transformation Liqueur (Elemental Fire)
+1.40% 	Spirit Transformation Liqueur (Crow Feathers)
+1.40% 	Spirit Transformation Liqueur (Spun Sugar Mist)
+1.40% 	Spirit Transformation Liqueur (Gale)
+1.40% 	Spirit Transformation Liqueur (Elemental Ice)
+1.40% 	Piran Fixed Dye Ampoule Set
+1.40% 	Etain Fixed Dye Ampoule Set
+1.12% 	Pihne Fixed Dye Ampoule Set
+1.26% 	Rabbit Rag Doll
+1.26% 	Bear Rag Doll
+1.40% 	Fennec Fox Rag Doll
+1.42% 	Speed Walk Potion 40% (30 min)
+1.42% 	Light Physical Power Potion (2 Hours)
+1.42% 	Light Magic Power Potion (2 hrs.)
+1.42% 	Fixed Color Dye Ampoule (#39131A)
+1.42% 	Fixed Color Dye Ampoule (#FFFFFF)
+1.42% 	Fixed Color Dye Ampoule (#000000)
+1.42% 	Fixed Color Dye Ampoule (#95461F)
+1.42% 	Pet Fixed Color Dye Ampoule (#FFFFFF)
+1.42% 	Pet Fixed Color Dye Ampoule (#95461F)
+1.42% 	Fixed Color Metal Dye Ampoule (#39131A)
+1.42% 	Fixed Color Metal Dye Ampoule (#E8DE73)
+1.42% 	Fixed Color Metal Dye Ampoule (#000000)
+1.42% 	Fixed Color Metal Dye Ampoule (#95461F)
+1.42% 	Homestead Golden Sprout x5
+1.42% 	Pierrot Marionette Training Potion
+1.42% 	Act 1: Inciting Incident Training Potion
+1.42% 	Act 2: Threshold Cutter Training Potion
+1.42% 	Act 4: Rising Action Training Potion
+1.42% 	Act 6: Crisis Training Potion
+1.42% 	Act 7: Climactic Crash Training Potion
+1.42% 	Homestead Cat Pottery Lamp
+1.42% 	Homestead Blue Goldfish Lamp
+1.42% 	Homestead Large Goldfish Lamp
+1.42% 	Frozen Heart Balloon (5 uses)
+1.42% 	Battle Cry Gesture Card
+1.42% 	Repair Gesture Card

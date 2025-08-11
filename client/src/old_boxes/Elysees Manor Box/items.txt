@@ -1,0 +1,125 @@
+0.14%	Elysees Manor Cat Tail
+0.14%	Elysees Manor Spectral Cat Tail
+0.14%	Elysees Manor Fox Tail
+0.14%	Elysees Manor Spectral Fox Tail
+0.14%	Elysees Manor Squirrel Tail
+0.14%	Elysees Manor Spectral Squirrel Tail
+0.14%	Elysees Manor Horse Tail
+0.14%	Elysees Manor Spectral Horse Tail
+0.14%	Elysees Manor Ribbon-Bound Bunny Ears
+0.14%	Elysees Manor Lop-Eared Bunny Headband
+0.14%	Elysees Manor Cat Eared Lace Headband
+0.14%	Elysees Manor Cat Eared Headband
+0.14%	Elysees Maid Frilled Headband
+0.13%	Special Elysees Butler Suit (M)
+0.13%	Special Elysees Maid Dress (F)
+0.13%	Eluned Special Elysees Maid Dress (M)
+0.13%	Eluned Special Elysees Butler Suit (F)
+0.21%	Elysees Butler Suit (M)
+0.21%	Elysees Maid Dress (F)
+0.21%	Eluned Elysees Maid Dress (M)
+0.21%	Eluned Elysees Butler Wear (F)
+0.24%	Elysees Butler Gloves (M)
+0.24%	Elysees Maid Gloves (F)
+0.24%	Eluned Elysees Maid Gloves (M)
+0.24%	Eluned Elysees Butler Gloves (F)
+0.24%	Elysees Butler Shoes (M)
+0.24%	Elysees Maid Shoes (F)
+0.24%	Eluned Elysees Maid Shoes (M)
+0.24%	Eluned Elysees Butler Shoes (F)
+0.21%	Noble Golf Club Two-handed Axe Appearance Scroll
+0.21%	Noble Golf Club Staff Appearance Scroll
+0.21%	Elysees Manor Monocle (Facewear)
+0.14%	Desert Mirage Astral Tail
+0.14%	Desert Mirage Ornamental Tail
+0.14%	Desert Mirage Ribbon Tail
+0.14%	Desert Mirage Fox Ears Wiggling Headband
+0.15%	Lacy Ribbon Brooch Waist
+0.15%	Florist's Ribbon Belt
+0.14%	Special Classic Butler Outfit (M)
+0.14%	Special Classic Maid Dress (F)
+0.14%	Special Eluned Classic Maid Dress (M)
+0.14%	Special Eluned Classic Butler Outfit (F)
+0.14%	Classic Maid Hair Bow
+0.34%	Desert Mirage Downy Tail
+0.34%	Florist's Toolbelt
+0.34%	Moonlit Mouse Ears Wiggling Headband
+0.34%	Moonlit Leopard Tail
+0.51%	Fluffy Ribbon Kitty Tail
+0.51%	Wiggling Beast Ears Headband
+0.51%	Starry Night Wolf Tail
+0.51%	Fluffy Kitty Tail
+0.51%	Desert Mirage Ornamental Ears Wiggling Headband
+0.51%	Bird of Fortune Tail
+0.51%	Ribbon Brooch Waist
+0.69%	Abyss Dragon Bone Tail
+0.69%	Desert Warrior Tail
+0.69%	Desert Guardian Tail
+0.86%	Moonlit Puppy Ears Wiggling Headband
+0.86%	Wiggling Beast Horns Headband
+0.86%	Peaceful Ribbon Tail
+0.69%	Classic Butler Outfit (M)
+0.69%	Classic Maid Dress (F)
+0.69%	Eluned Classic Maid Dress (M)
+0.69%	Eluned Classic Butler Outfit (F)
+0.86%	Classic Butler Wig (M)
+0.86%	Classic Maid Wig (F)
+0.34%	Classic Butler Shoes (M)
+0.34%	Classic Maid Shoes (F)
+0.86%	Eluned Classic Maid Shoes (M)
+0.86%	Eluned Classic Butler Shoes (F)
+0.34%	Special Beauty Dress (F)
+0.34%	Special Beast Suit (M)
+0.69%	Special Snow Princess Dress (F)
+0.69%	Special Snow Prince Suit (M)
+1.37%	Classic Butler Gloves (M)
+1.37%	Classic Maid Gloves (F)
+1.37%	Eluned Classic Maid Gloves (M)
+1.37%	Eluned Classic Butler Gloves (F)
+1.20%	Snow Princess Ribbon Headband (F)
+1.20%	Beauty Dress (F)
+1.03%	Beast Suit (M)
+1.03%	Beauty's Wig (F)
+1.03%	Beauty's Wig and Floral Coronet (F)
+1.20%	Beast Wig (M)
+1.37%	Beast Wig and Horns (M)
+1.37%	Snow Princess Gloves (F)
+1.37%	Snow Prince Gloves (M)
+1.20%	Beauty Gloves (F)
+1.37%	Beast Gloves (M)
+1.20%	Snow Princess Shoes (F)
+1.37%	Snow Prince Shoes (M)
+1.03%	Beauty Shoes (F)
+1.37%	Beast Shoes (M)
+1.03%	Desert Mirage Shrew Ears Wiggling Headband
+1.03%	Desert Mirage Ornamental Ears Headband
+1.03%	Jeweler Crystal Tail
+1.03%	Jeweler Glowing Tail
+1.03%	Feather Wings Tail
+1.54%	Merlin Fixed Dye Ampoule Set
+1.54%	Starlet Fixed Dye Ampoule Set
+1.54%	Professor J Fixed Dye Ampoule Set
+1.54%	Culinary Artist Fixed Dye Ampoule Set
+1.54%	Treasure Hunter Fixed Dye Ampoule Set
+1.54%	Eiren's Outfit Dye Ampoule Set
+1.72%	Speed Walk Potion 40% (30 min)
+1.72%	Light Physical Power Potion (2 Hours)
+1.72%	Light Magic Power Potion (2 hrs.)
+1.72%	Fixed Color Dye Ampoule (#82698F)
+1.72%	Fixed Color Dye Ampoule (#FFD7C0)
+1.72%	Fixed Color Dye Ampoule (#00064C)
+1.72%	Fixed Color Metal Dye Ampoule (#00FF00)
+1.72%	Fixed Color Metal Dye Ampoule (#FFDCB8)
+1.72%	Pet Fixed Color Dye Ampoule (#000000)
+1.72%	Pet Fixed Color Dye Ampoule (#0000FF)
+1.72%	Potent Regular Gem Powder (x3)
+1.72%	Dorcha Conversion Training Potion
+1.72%	Spinning Slasher Training Potion
+1.72%	Way of the Gun Training Potion
+1.72%	Smokescreen Training Potion
+1.72%	Vivace Training Potion
+1.72%	Homestead Housing Crazy Rich Milletian Piano
+1.72%	Homestead Housing Crazy Rich Milletian Fireplace
+1.72%	Homestead Mysterious Mansion's Fireplace
+1.72%	Phew Gesture Card
+1.72%	O-ho-ho Gesture Card

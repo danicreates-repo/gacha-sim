@@ -1,0 +1,125 @@
+0.13%	Special Spectral Blademaster Outfit (M)
+0.13%	Special Spectral Blademaster Outfit (F)
+0.16%	Spectral Blademaster Outfit (M)
+0.16%	Spectral Blademaster Outfit (F)
+0.16%	Spectral Blademaster Cuffs (M)
+0.16%	Spectral Blademaster Cuffs (F)
+0.16%	Spectral Blademaster Boots (M)
+0.16%	Spectral Blademaster Boots (F)
+0.16%	Spectral Blademaster Hat
+0.16%	Spectral Blademaster Ponytail
+0.14%	Ornate Green Dragon Crescent Blade Two-handed Sword Appearance Scroll
+0.14%	Ornate Blue Dragon Crescent Blade Two-handed Sword Appearance Scroll
+0.14%	Ornate Green Dragon Crescent Blade Two-handed Axe Appearance Scroll
+0.14%	Ornate Blue Dragon Crescent Blade Two-handed Axe Appearance Scroll
+0.14%	Green Dragon Crescent Blade Two-handed Sword Appearance Scroll
+0.14%	Blue Dragon Crescent Blade Two-handed Sword Appearance Scroll
+0.14%	Green Dragon Crescent Blade Two-handed Axe Appearance Scroll
+0.14%	Blue Dragon Crescent Blade Two-handed Axe Appearance Scroll
+0.14%	Ornate Blue Dragon One-handed Sword Appearance Scroll
+0.14%	Ornate Rakshasa One-handed Sword Appearance Scroll
+0.14%	Blue Dragon One-handed Sword Appearance Scroll
+0.14%	Rakshasa One-handed Sword Appearance Scroll
+0.14%	Wanderer's Pipe Staff Appearance Scroll
+0.14%	Rakshasa Pipe Staff Appearance Scroll
+0.14%	Wanderer's Pipe Wand Appearance Scroll
+0.14%	Rakshasa Pipe Wand Appearance Scroll
+0.16%	Technique: Redoubled Offensive Appearance Chance Card (Goddess of Death) Coupon
+0.16%	Technique: Redoubled Offensive Appearance Chance Card (Merciless Goddess of Death) Coupon
+0.16%	Technique: Redoubled Offensive Appearance Chance Card (Cold Goddess of Death) Coupon
+0.16%	Spirit Transformation Liqueur (Lightning)
+0.16%	Spirit Transformation Liqueur (Shadowed Lightning)
+0.16%	Spirit Transformation Liqueur (Pristine Lightning)
+0.16%	Spirit Transformation Liqueur (Eternal Lightning)
+0.16%	Spirit Transformation Liqueur (Thunder Overlord)
+0.16%	Spirit Transformation Liqueur (Dark Thunder Overlord)
+0.16%	Spirit Transformation Liqueur (Pristine Thunder Overlord)
+0.16%	Spirit Transformation Liqueur (Idle Thunder Overlord)
+0.16%	Thunder Effect Change Card (Incorruptible Whirlwind) Coupon
+0.16%	Flame Burst Effect Change Card (Obsidian Spray) Coupon
+0.14%	Moonshadow Emissary's Netherblade Appearance Scroll
+0.14%	Duskveil Emissary's Netherblade Appearance Scroll
+0.15%	Special Elegant Romantic Lace Dress (F)
+0.15%	Special Elegant Romantic Lace Wear (M)
+0.14%	Special Charming Romantic Lace Dress (F)
+0.14%	Special Charming Romantic Lace Wear (M)
+0.19%	Romantic Lace Heels (F)
+0.19%	Romantic Lace Boots (M)
+0.15%	Special Summer Island Hopper Shirt (M)
+0.15%	Special Summer Island Hopper Dress (F)
+0.26%	Charming Romantic Lace Dress (F)
+0.26%	Charming Romantic Lace Wear (M)
+0.32%	Elegant Romantic Lace Dress (F)
+0.32%	Elegant Romantic Lace Wear (M)
+0.64%	Romantic Lace Wig (F)
+0.64%	Romantic Lace Wig (M)
+0.96%	Romantic Lace Gloves (F)
+0.96%	Romantic Lace Gloves (M)
+0.64%	Summer Island Hopper Shirt (M)
+0.64%	Summer Island Hopper Dress (F)
+0.96%	Charming Romantic Lace Umbrella Appearance Scroll
+0.96%	Elegant Romantic Lace Umbrella
+0.80%	Elegant Romantic Lace Fan
+0.32%	Spirit Transformation Liqueur (Soul Reaver)
+0.64%	Spirit Transformation Liqueur (Flickering Edge)
+0.64%	Spirit Transformation Liqueur (Black Lightning)
+0.80%	Spirit Transformation Liqueur (Azure Lightning)
+0.80%	Spirit Transformation Liqueur (Elemental Lightning)
+0.32%	Moonshadow Emissary's Scythe Appearance Scroll
+0.32%	Duskveil Emissary's Scythe Appearance Scroll
+0.48%	Moonshadow Emissary's Folding Fan Appearance Scroll
+0.32%	Secret Forest Wildflower Two-handed Sword
+0.64%	Piat Sestia Academy Kitty Plushie
+0.64%	Piat Sestia Academy Puppy Plushie
+0.80%	Midnight Covenant Control Bar Appearance Scroll
+0.80%	Moonlight Hunter's Silvered Blade Appearance Scroll
+0.80%	Selenian Wand Appearance Scroll
+0.80%	Adventurer's L-Rod
+1.60%	Summer Island Hopper Wig (M)
+1.60%	Summer Island Hopper Wig (F)
+1.44%	Summer Island Hopper Sandals (M)
+1.44%	Summer Island Hopper Sandals (F)
+1.44%	Elegant Romantic Lace Umbrella Appearance Scroll
+1.28%	Elegant Romantic Lace Fan Appearance Scroll
+1.28%	Floral Flourish Rapier
+1.44%	Piat Sestia Academy Bunny Plushie
+1.44%	Black Rose Bouquet
+1.60%	Glass Trim Mirror
+1.60%	Inflatable Life Raft with Insignia
+1.60%	Classic Broom
+1.60%	Sweet Academy Bag
+1.60%	Classic Tea Set
+1.60%	Wine Tray
+1.60%	Glass Trim Bouquet
+1.44%	Purple Crescent Star Halo
+1.44%	Red Crescent Star Halo
+1.44%	National Prestige Academy Rose Gold Halo
+1.44%	National Prestige Academy Silver Halo
+1.60%	Fixed Color Hair Dye Ampoule (#43262D)
+1.60%	Fixed Color Hair Dye Ampoule (#72B1FB)
+1.60%	Monochromatic White Pack (#FFFFFF)
+1.60%	Monochromatic Gray Pack (#808080)
+1.61%	Speed Walk Potion 40% (30 min)
+1.61%	Light Physical Power Potion (2 Hours)
+1.61%	Light Magic Power Potion (2 hrs.)
+1.61%	Light Magic Speed Potion (2 hrs.)
+1.61%	Fixed Color Dye Ampoule (#39131A)
+1.61%	Fixed Color Dye Ampoule (#FFFFFF)
+1.61%	Fixed Color Dye Ampoule (#000000)
+1.61%	Fixed Color Metal Dye Ampoule (#00FF00)
+1.61%	Fixed Color Metal Dye Ampoule (#FFDCB8)
+1.61%	Pet Fixed Color Dye Ampoule (#000000)
+1.61%	Pet Fixed Color Dye Ampoule (#0000FF)
+1.61%	Magical Instrument Dye (#87CEFA)
+1.61%	Magical Instrument Dye (#FFD700)
+1.61%	Party Healing Training Potion
+1.61%	Hail Storm Training Potion
+1.61%	Wire Pull Training Potion
+1.61%	Windmill Training Potion
+1.61%	Explosive Kunai Training Potion
+1.61%	Enduring Melody Training Potion
+1.61%	Reload Training Potion
+1.61%	Heat Buster Training Potion
+1.61%	Hot and Sweaty Gesture Card
+1.61%	Stretching Gesture Card
+1.61%	Contemplate Gesture Card

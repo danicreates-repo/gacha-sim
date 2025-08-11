@@ -1,0 +1,120 @@
+0.09%	Glorious Celestial Eminence Wings
+0.11%	Virtuous Celestial Eminence Wings
+0.11%	Sacred Celestial Eminence Wings
+0.11%	Noble Celestial Eminence Wings
+0.12%	Virtuous Celestial Eminence Halo
+0.12%	Sacred Celestial Eminence Halo
+0.12%	Noble Celestial Eminence Halo
+0.12%	Special Celestial Eminence Spring Cyclas (M)
+0.12%	Special Celestial Eminence Spring Dress (F)
+0.12%	Special Celestial Eminence Autumn Cyclas (M)
+0.12%	Special Celestial Eminence Autumn Dress (F)
+0.20%	Celestial Eminence Spring Cyclas (M)
+0.20%	Celestial Eminence Spring Dress (F)
+0.20%	Celestial Eminence Autumn Cyclas (M)
+0.20%	Celestial Eminence Autumn Dress (F)
+0.23%	Celestial Eminence Armlets (M)
+0.23%	Celestial Eminence Ringbands (F)
+0.23%	Celestial Eminence Wrap Sandals (M)
+0.23%	Celestial Eminence Heeled Sandals (F)
+0.20%	Celestial Eminence Wig (M)
+0.20%	Celestial Eminence Wig (F)
+0.20%	Celestial Eminence Ceremonial Greatsword Appearance Scroll
+0.20%	Celestial Eminence Bladed Lance Appearance Scroll
+0.20%	Spirit Transformation Liqueur (Celestial Wind)
+0.20%	Spirit Transformation Liqueur (Planar Rift)
+0.20%	Magnum Shot Effect Change Card (Tidal Surge) Coupon
+0.20%	Lance Charge Effect Change Card (Lightning) Coupon
+0.15%	Spirit Transformation Liqueur (Cold Moonlight)
+0.15%	Spirit Transformation Liqueur (Soul Breaker)
+0.15%	Spirit Transformation Liqueur (Red Lightning)
+0.14%	Neon Blossom Katana Appearance Scroll
+0.14%	Doodling Crayon Longbow Appearance Scroll
+0.14%	Special Blue Dragon's Chosen Robe (F)
+0.14%	Special Blue Dragon's Chosen Robe (M)
+0.15%	Special Dark Lord Regalia (M)
+0.15%	Special Angelic Saint Vestment (F)
+0.17%	Special Moonshadow Emissary's Outfit (F)
+0.17%	Special Duskveil Emissary's Outfit (M)
+0.17%	Special Duskveil Emissary's Outfit (F)
+0.17%	Special Moonshadow Emissary's Outfit (M)
+0.73%	Blue Dragon's Chosen Robe (F)
+0.73%	Blue Dragon's Chosen Wristguards (F)
+0.29%	Blue Dragon's Chosen Sandals (F)
+0.29%	Blue Dragon's Chosen Robe (M)
+0.87%	Blue Dragon's Chosen Sandals (M)
+0.87%	Blue Dragon's Chosen Wristguards (M)
+0.87%	Dark Lord Regalia (M)
+0.87%	Angelic Saint Vestment (F)
+0.87%	Dark Lord Gauntlets (M)
+0.87%	Angelic Saint Wrist Bangles (F)
+0.58%	Dark Lord Greaves (M)
+0.58%	Angelic Saint Sandals (F)
+0.87%	Dark Lord Tyrannical Crest
+0.87%	Dark Lord Abyssal Crest
+0.87%	Angelic Saint Blessed Nimbus
+0.87%	Angelic Saint Virtuous Nimbus
+0.87%	Angelic Saint Dazzling Nimbus
+0.87%	Moonshadow Emissary's Vambrace (F)
+0.87%	Moonshadow Emissary's Bracelets (M)
+0.73%	Moonshadow Emissary's Boots (F)
+0.73%	Moonshadow Emissary's Boots (M)
+0.58%	Moonshadow Emissary's Wig (F)
+0.58%	Moonshadow Emissary's Wig (M)
+0.29%	Moonshadow Emissary's Satgat
+0.58%	Spirit Transformation Liqueur (Blossoming Butterflies)
+0.73%	Spirit Transformation Liqueur (Pawprint Nebula)
+0.29%	Black Rose Staff Appearance Scroll
+0.87%	Mafia Dual Rifles Appearance Scroll
+1.45%	Dark Lord Iron Horns (Facewear)
+1.31%	Angelic Saint Masque (Facewear)
+1.45%	Dark Lord's Throne
+1.45%	Angelic Saint's Dais
+1.45%	Dark Lord Cane Appearance Scroll
+1.45%	Angelic Saint Staff Appearance Scroll
+1.16%	Moonshadow Emissary's Outfit (F)
+1.16%	Moonshadow Emissary's Outfit (M)
+1.31%	Duskveil Emissary's Outfit (F)
+1.31%	Duskveil Emissary's Outfit (M)
+1.16%	Homestead No-Peeking Fence
+1.31%	Crayon Bear Cushion
+1.31%	Homestead Domed Gazebo
+1.31%	Homestead Black Chess Board Package Box
+1.45%	Homestead Large Aquarium
+1.45%	Homestead Frontier General Store
+1.45%	Homestead Timepiece Mechanism A
+1.45%	Homestead Timepiece Mechanism B
+1.45%	Dreamseer's Unicorn Lance Appearance Scroll
+1.45%	Fairytale Gardener's Half-Scissor Appearance Scroll
+1.45%	Sun Gem Wand Appearance Scroll
+1.45%	Metallic Half Mask (Facewear)
+1.45%	Noble Teardrop Mask (Facewear)
+1.45%	Frostblossom Ear Decoration (Facewear)
+1.31%	Gold Ring Halo
+1.31%	Charming Small Draconian Halo
+1.31%	Gold Supernova Halo
+1.46%	Speed Walk Potion 40% (30 min)
+1.46%	Light Physical Power Potion (2 Hours)
+1.46%	Light Magic Power Potion (2 hrs.)
+1.46%	Light Magic Speed Potion (2 hrs.)
+1.46%	Fixed Color Dye Ampoule (#00064C)
+1.46%	Fixed Color Dye Ampoule (#87CEFA)
+1.46%	Fixed Color Dye Ampoule (#FED0C0)
+1.46%	Pet Fixed Color Dye Ampoule (#7FFFD4)
+1.46%	Pet Fixed Color Dye Ampoule (#800080)
+1.46%	Magical Instrument Dye (#FF0000)
+1.46%	Magical Instrument Dye (#FFFF00)
+1.46%	Chain Burst Training Potion
+1.46%	Puppet's Snare Training Potion
+1.46%	Combo: Focused Fist Training Potion
+1.46%	Colossus Marionette Training Potion
+1.46%	Water Alchemy Mastery Training Potion
+1.46%	Chain Sweep Training Potion
+1.46%	Flash Launcher Training Potion
+1.46%	Homestead Death's Thorn Wall
+1.46%	Homestead Large Black Pine Tree
+1.46%	Homestead Fairytale Teatime Corner
+1.46%	Homestead Bird Pottery Lamp
+1.46%	Oath Gesture Card
+1.46%	Munch Munch Gesture Card
+1.46%	Boo Gesture Card

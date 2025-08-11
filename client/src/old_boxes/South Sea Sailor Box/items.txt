@@ -1,0 +1,134 @@
+0.13%	Special South Sea Sailor's Cadet Uniform (M)
+0.13%	Special South Sea Sailor's Cadet Uniform (F)
+0.13%	Special South Sea Sailor's Deckhand Uniform (M)
+0.13%	Special South Sea Sailor's Deckhand Uniform (F)
+0.19%	South Sea Sailor's Cadet Uniform (M)
+0.19%	South Sea Sailor's Cadet Uniform (F)
+0.19%	South Sea Sailor's Deckhand Uniform (M)
+0.19%	South Sea Sailor's Deckhand Uniform (F)
+0.20%	South Sea Sailor's Glove (M)
+0.20%	South Sea Sailor's Wristwear (F)
+0.20%	South Sea Sailor's Boat Shoes (M)
+0.20%	South Sea Sailor's Boat Shoes (F)
+0.17%	South Sea Sailor's Officer's Hat
+0.17%	South Sea Sailor's Canvas Cap
+0.12%	Glorious South Sea Sailor's Bag
+0.20%	Sailboat Stardust
+0.19%	South Sea Sailor's Marine Harpoon Appearance Scroll
+0.19%	South Sea Sailor's Harpoon Appearance Scroll
+0.19%	South Sea Sailor's Shield Appearance Scroll
+0.19%	South Sea Sailor's Marine Shield Appearance Scroll
+0.19%	South Sea Sailor's Anchor Axe Appearance Scroll
+0.19%	South Sea Sailor's Ship's Wheels Appearance Scroll
+0.20%	South Sea Sailor's Compass Ribbon Halo
+0.20%	South Sea Sailor's Compass Halo
+0.20%	South Seas Sailor's Compass Rose Ribbon Halo
+0.20%	South Seas Sailor's Compass Rose Halo
+0.16%	Spirit Transformation Liqueur (Starfall)
+0.16%	Spirit Transformation Liqueur (Summer Starfall)
+0.16%	Spirit Transformation Liqueur (Winter Starfall)
+0.16%	Spellwalk Effect Change Card (Red Rose) Coupon
+0.16%	Spellwalk Effect Change Card (Blue Rose) Coupon
+0.16%	Spellwalk Effect Change Card (Pink Rose) Coupon
+0.16%	Spellwalk Effect Change Card (Black Rose) Coupon
+0.08%	Cowenna Figure
+0.08%	Eochaid Figure
+0.10%	Captain Altam Figure
+0.10%	Inquisitor Deirbhile Figure
+0.13%	Special Sunbather's Paradise Wear (M)
+0.13%	Special Sunbather's Paradise Wear (F)
+0.14%	Special Sunbather's Bliss Wear (M)
+0.14%	Special Sunbather's Bliss Wear (F)
+0.15%	Sunbather's Paradise Wristlet and Rings (M)
+0.15%	Sunbather's Paradise Bracelets and Rings (F)
+0.14%	Sunbather's Paradise Platform Sandals (M)
+0.14%	Sunbather's Paradise Heeled Sandals (F)
+0.15%	Special Shallow Waters Merman Suit (M)
+0.15%	Special Shallow Waters Mermaid Dress (F)
+0.29%	Special Deep Sea Merman Suit (M)
+0.29%	Special Deep Sea Mermaid Dress (F)
+0.29%	Sunbather's Paradise Wear (M)
+0.29%	Sunbather's Paradise Wear (F)
+0.73%	Sunbather's Bliss Wear (M)
+0.73%	Sunbather's Bliss Wear (F)
+0.29%	Sunbather's Paradise Hat (M)
+0.29%	Sunbather's Paradise Sunhat (F)
+0.29%	Deep Sea Mermaid Sandals (M)
+0.29%	Deep Sea Mermaid Heels (F)
+0.73%	Deep Sea Merman Suit (M)
+0.73%	Deep Sea Mermaid Dress (F)
+0.73%	Spirit Transformation Liqueur (Blue Morpho)
+0.73%	Spirit Transformation Liqueur (Tidal Wave)
+0.29%	Striped Maritime Swimsuit
+0.29%	Sailor Bikini
+0.73%	Sailor One-Piece
+0.73%	Sheer Maritime Beach Coat
+0.73%	Sheer Sailor One-Piece
+0.73%	Snazzy Maritime Swimsuit
+0.73%	Detective Outfit (M)
+0.73%	Detective Outfit (F)
+0.29%	Crocus High School Synthesizer
+0.29%	Sweet Hamster Ukulele
+0.44%	Enigmatic Quill
+0.58%	Charming Romantic Lace Fan
+0.87%	Sestia Academy Puppy Plushie
+0.87%	Sestia Academy Bunny Plushie
+0.87%	Waterfowl Fishing Tackle
+1.02%	Marine Fishing Tackle
+0.29%	Piat Sestia Academy Cloud Halo
+0.29%	Piat Sestia Academy Fluffball Halo
+1.02%	DIY Flashy Dye Mold
+1.16%	Deep Sea Mermaid Wig (F)
+1.16%	Deep Sea Merman Wig (M)
+1.31%	Deep Sea Mermaid Wig and Ornaments (F)
+1.31%	Deep Sea Merman Wig and Ear Clip (M)
+1.16%	Shallow Waters Merman Suit (M)
+1.16%	Shallow Waters Mermaid Dress (F)
+1.45%	Deep Sea Merman Earrings (M)
+1.16%	Deep Sea Mermaid Hairpiece (F)
+1.31%	Deep Sea Merfolk Gloves
+1.45%	Deep Sea Merfolk Gill Decoration (Facewear)
+1.16%	Spirit Transformation Liqueur (High Tide)
+1.31%	Bubbly Sailor Sandals
+1.31%	Sailor Hat
+1.16%	Basic Maritime Sandals
+1.16%	Charming Romantic Lace Umbrella
+1.31%	Charming Romantic Lace Clutch
+1.31%	Elegant Romantic Lace Clutch
+1.31%	Large Rainbow Inner Tube
+1.45%	Marine Sunset Surf Board
+1.45%	Charming Bunny Doll
+1.45%	Cherished Little Miss Doll
+1.45%	Cherished Bunny Doll
+1.16%	Lovely Winter Drums
+1.31%	Checkmate Electric Guitar
+1.31%	Bleugenne Cosmetics Mandolin Appearance Scroll
+1.31%	Circus Bandmember's Drums
+1.45%	Circus Bandmember's Piano
+1.16%	Perfect Free Repair Kit (Falias Relic)
+1.46%	Speed Walk Potion 40% (30 min)
+1.46%	Light Physical Power Potion (2 Hours)
+1.46%	Light Magic Power Potion (2 hrs.)
+1.46%	Light Magic Speed Potion (2 hrs.)
+1.46%	Fixed Color Dye Ampoule (#282828)
+1.46%	Fixed Color Dye Ampoule (#FFD700)
+1.46%	Fixed Color Dye Ampoule (#0000FF)
+1.46%	Fixed Color Dye Ampoule (#FF0000)
+1.46%	Fixed Color Dye Ampoule (#21C3DE)
+1.46%	Pet Fixed Color Dye Ampoule (#FFD700)
+1.46%	Pet Fixed Color Dye Ampoule (#FF0000)
+1.46%	Magical Instrument Dye (#000000)
+1.46%	Magical Instrument Dye (#FFFFFF)
+1.46%	Mana Crystallization Training Potion
+1.46%	Metal Conversion Training Potion
+1.46%	Refining Training Potion
+1.46%	Enchant Training Potion
+1.46%	Fishing Training Potion
+1.46%	Imp Mini Potion (x2)
+1.46%	Squee Gesture Card
+1.46%	Yearning 2 Gesture Card
+1.46%	Focused Rainbow Beam Sword
+1.46%	Focused Green Beam Sword
+1.46%	Focused Red Beam Sword
+1.46%	Focused White Beam Sword
+1.46%	Focused Blue Beam Sword
